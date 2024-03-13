@@ -1,4 +1,4 @@
 # cmstemplate
 Github pages template for cmsimde submodule
 
-http://mde.tw/cmstemplate
+樣板 https://github.com/mdecourse/cmstemplate 
